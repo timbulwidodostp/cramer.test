@@ -1,6 +1,8 @@
 # cramer.test
 Perform Cramer-Test for uni- and multivariate two-sample-proble Use cramer.test (cramer) With (In) R Software
 
+https://www.youtube.com/watch?v=X8TofOXVe_k
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
